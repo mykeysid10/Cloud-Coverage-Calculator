@@ -2,6 +2,10 @@
 
 #### Domain: Computer Vision | Regression | Image Processing
 
+#### [Web App Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Dataset Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)
+
+#### Models: [CLIP Finetuned Model Link](https://drive.google.com/file/d/1NyhuqLyiHzXft6227LD3uJyahVgDb0Pe/view?usp=sharing)  |  [CatBoost Model Link](https://drive.google.com/file/d/15v7tcVPIfufBPIHRFPikgeC232s7MN3h/view?usp=sharing) 
+
 #### Workflow: CLIP + CatBoost
 
 ![Workflow](https://raw.githubusercontent.com/mykeysid10/Invoice-PDF-QnA-System/main/Workflow.PNG)
