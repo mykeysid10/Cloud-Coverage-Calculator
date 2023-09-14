@@ -1,4 +1,4 @@
-## EcoTech-Data-Science-GfG-Hackathon: Cloud Coverage Calculator from Sky-Cam Images
+### EcoTech-Data-Science-GfG-Hackathon: Cloud Coverage Calculator from Sky-Cam Images
 
 #### Domain: Computer Vision | Regression | Image Processing
 
