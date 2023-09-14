@@ -8,7 +8,7 @@
 
 #### Low Cloud Coverage (Range: 0% - 33%)
 
-![LCC]([Sample UI Test Set/low/20160826164000.raw.jpg](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg?token=GHSAT0AAAAAAB2UK7QA2TTVM3L72WH23ZRAZIDGXHQ))
+![LCC](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg?token=GHSAT0AAAAAAB2UK7QA2TTVM3L72WH23ZRAZIDGXHQ)
 
 #### Moderate Cloud Coverage (Range: 33% - 66%)
 
