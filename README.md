@@ -1,4 +1,4 @@
-## GFG EcoTech DS Hackathon: Cloud Coverage Calculator using Sky-Cam Images
+## GFG EcoTech Hackathon: Cloud Coverage Calculator using Sky-Cam Images
 
 #### Domain: Computer Vision | Regression | Image Processing
 
