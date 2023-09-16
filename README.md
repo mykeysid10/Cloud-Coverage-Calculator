@@ -12,7 +12,9 @@
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/high/20210705150000.raw.jpg" width="30%" alt="Image 3">
 </div>
 
-Fig 1: Low Cloud Coverage (Range: 0% - 33%) | Fig 2: Moderate Cloud Coverage (Range: 33% - 66%) | Fig 3: High Cloud Coverage (Range: 66% - 100%)</p>
+Fig 1: Low Cloud Coverage (Range: 0% - 33%) 
+Fig 2: Moderate Cloud Coverage (Range: 33% - 66%) 
+Fig 3: High Cloud Coverage (Range: 66% - 100%)</p>
 
 #### Workflow: 
 
