@@ -4,26 +4,18 @@
 
 #### Links: [Web App Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Dataset Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Finetuned Models Link](https://drive.google.com/file/d/1NyhuqLyiHzXft6227LD3uJyahVgDb0Pe/view?usp=sharing)  |  [Demo Video Link](https://drive.google.com/file/d/15v7tcVPIfufBPIHRFPikgeC232s7MN3h/view?usp=sharing)  |  [GFG Article Link](https://drive.google.com/file/d/15v7tcVPIfufBPIHRFPikgeC232s7MN3h/view?usp=sharing)
 
-#### Workflow: CLIP + CatBoost
-
-![Workflow](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Images/System_Architecture.png)
-
+#### Domain Knowledge: 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg" width="30%" alt="Image 1">
-  <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg" width="30%" alt="Image 2">
-  <img src="image3.jpg" width="30%" alt="Image 3">
+  <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/moderate/20160304123000.raw.jpg" width="30%" alt="Image 2">
+  <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/high/20210705150000.raw.jpg" width="30%" alt="Image 3">
+  <br>
+  <p>Low Cloud Coverage (Range: 0% - 33%)</p>
+  <p>Moderate Cloud Coverage (Range: 33% - 66%)</p>
+  <p>High Cloud Coverage (Range: 66% - 100%)</p>
 </div>
 
+#### Workflow: 
 
-#### Low Cloud Coverage (Range: 0% - 33%)
-
-![LCC](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg)
-
-#### Moderate Cloud Coverage (Range: 33% - 66%)
-
-![MCC](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/moderate/20160304123000.raw.jpg)
-
-#### High Cloud Coverage (Range: 66% - 100%)
-
-![HCC](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/high/20210705150000.raw.jpg)
+![Workflow](https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Images/System_Architecture.png)
