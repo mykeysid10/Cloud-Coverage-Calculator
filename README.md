@@ -6,13 +6,14 @@
 
 #### Domain Knowledge: 
 
+###### Low Cloud Coverage (0% - 33%)     |     Moderate Cloud Coverage (33% - 66%)     |     High Cloud Coverage (66% - 100%)
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg" width="30%" alt="Image 1">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/moderate/20160304123000.raw.jpg" width="30%" alt="Image 2">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/high/20210705150000.raw.jpg" width="30%" alt="Image 3">
 </div>
 
-###### Low Cloud Coverage (0% - 33%) | Moderate Cloud Coverage (33% - 66%) | High Cloud Coverage (66% - 100%)
 
 #### Workflow: 
 
