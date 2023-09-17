@@ -4,7 +4,7 @@
 
 ##### Links: [Web App Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Dataset & Models Link](https://drive.google.com/drive/folders/14Fk5nWNNQT5Dk0J7KVO4VNCgUxxJTG6Y)  |  [Demo Video Link](https://www.youtube.com/watch?v=b8qGr6CowWs)  |  [GFG Article Link]()
 
-##### Domain Knowledge: Low CC (0% - 33%) | Moderate CC (33% - 66%) | High CC (66% - 100%)
+##### Domain Knowledge: Low CC: `0% - 33%` | Moderate CC: `33% - 66%` | High CC: `66% - 100%`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg" width="30%" alt="Image 1">
