@@ -1,7 +1,13 @@
-gradio
-timm
+numpy
+pandas
+matplotlib
+albumentations
 opencv-python
+torch
+timm
+tqdm
+scikit-learn
 catboost
 transformers
-torch
+gradio
 git+https://github.com/openai/CLIP.git
