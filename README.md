@@ -1,10 +1,10 @@
 ## GFG EcoTech Hackathon: Cloud Coverage Calculator via Sky-Cam Images
 
+#### Project Aim: To find the cloud coverage in percentage from a Skycam image.
+
 #### Domain: Computer Vision | Regression | Image Processing
 
 #### Links: [Web App Link](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Dataset & Models Link](https://drive.google.com/drive/folders/14Fk5nWNNQT5Dk0J7KVO4VNCgUxxJTG6Y)  |  [Demo Video Link](https://www.youtube.com/watch?v=b8qGr6CowWs)  |  [GFG Article Link](https://www.geeksforgeeks.org/skycam-images-based-cloud-coverage-prediction-via-computer-vision-machine-learning/)  |  [Project Documentation](https://github.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/blob/main/Project_Documentation.pdf)
-
-#### Project Aim: To find the cloud coverage in percentage from a Skycam image.
 
 #### Objectives:
 1. Cloud Coverage Prediction: To develop a robust model that accurately calculates cloud coverage from skycam images. This model aims to analyze the cloud formations in the provided images and provide a percentage indicating the extent of cloud coverage.
