@@ -37,6 +37,6 @@
 https://github.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/assets/70707011/310d84ff-281c-421e-858a-89a986812077
 
 #### Future Scope:
-1. Accurate weather monitoring is crucial for various applications including agriculture and disaster management. Cloud coverage is a key parameter in weather forecasting and automating its assessment can improve weather predictions.
-2. Providing real-time information on cloud coverage can benefit industries that rely on weather conditions, such as renewable energy generation, outdoor event planning, and transportation.
-3. The integration of the cloud coverage model with skycam can serve as an early warning system for impending storms or heavy rains and climatic drifts. This can help in taking preventive measures and ensuring public safety.
+- Accurate weather monitoring is crucial for various applications including agriculture and disaster management. Cloud coverage is a key parameter in weather forecasting and automating its assessment can improve weather predictions.
+- Providing real-time information on cloud coverage can benefit industries that rely on weather conditions, such as renewable energy generation, outdoor event planning, and transportation.
+- The integration of the cloud coverage model with skycam can serve as an early warning system for impending storms or heavy rains and climatic drifts. This can help in taking preventive measures and ensuring public safety.
