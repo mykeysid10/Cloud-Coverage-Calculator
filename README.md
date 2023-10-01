@@ -11,12 +11,9 @@
 2. Automation: Automate the process of cloud coverage assessment using sky images. This will reduce the need for manual monitoring and provide real-time information on the cloud conditions.
 
 #### Domain Knowledge: 
-
-> Skycam is an automated camera system to periodically record images of the entire sky from dusk until dawn.
-> 
-> Skycam Image is generated from a Skycam device.
-> 
-> Low CC: `0% - 33%` | Moderate CC: `33% - 66%` | High CC: `66% - 100%`
+- Skycam is an automated camera system to periodically record images of the entire sky from dusk until dawn.
+- Skycam Image is generated from a Skycam device.
+- Low CC: `0% - 33%` | Moderate CC: `33% - 66%` | High CC: `66% - 100%`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/main/Sample_UI_Test_Set/low/20160826164000.raw.jpg" width="30%" alt="Image 1">
