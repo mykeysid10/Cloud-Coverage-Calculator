@@ -32,7 +32,7 @@
 3. Keep `app.py`, `cloud_coverage_pipeline.py`, `catboost_model.sav` & `clip_model.pt` in same directory.
 4. Run the `app.py` file and test the application.
 
-#### UI-Demo Video: 
+#### Demo Video: 
 
 https://github.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/assets/70707011/310d84ff-281c-421e-858a-89a986812077
 
