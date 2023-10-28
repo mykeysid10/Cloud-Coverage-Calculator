@@ -1,4 +1,4 @@
-## GFG EcoTech Hackathon: Cloud Coverage Calculator via Sky-Cam Images
+## Cloud Coverage Calculator via Sky-Cam Images
 
 #### Project Aim: To find the cloud coverage in percentage from a Skycam image.
 
