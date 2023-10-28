@@ -2,7 +2,9 @@
 
 #### Project Aim: To find the cloud coverage in percentage from a Skycam image.
 
-#### Domain: Computer Vision | Regression | Image Processing | GFG Hackathon | 3rd Rank of 50 Participants
+#### Domain: Computer Vision | Machine Learning 
+
+#### Achievements: 3rd Rank at Geek-for-Geeks Ecotech Hackathon of 50 Participants.
 
 #### Links: [Data](https://www.allskycam.com/)  |  [Web App](https://huggingface.co/spaces/mykeysid10/gradio-cloud-coverage)  |  [Demo Video](https://www.youtube.com/watch?v=b8qGr6CowWs)  |  [GFG Article](https://www.geeksforgeeks.org/skycam-images-based-cloud-coverage-prediction-via-computer-vision-machine-learning/)  |  [Project Documentation](https://github.com/mykeysid10/EcoTech-Data-Science-GfG-Hackathon-Cloud-Coverage-Calculator/blob/main/Project_Documentation.pdf)
 
